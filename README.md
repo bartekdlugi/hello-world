@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hello!
+
+It's me - bartekdlugi and this is my first readme file! 
